@@ -19,9 +19,9 @@ mv .env_example env.py
 
 Include your own `API_KEY` inside `env.py`  
 
-Run the files
+Run the files. Example:  
 ```
-python3 vrp.py
+python3 cvrp.py
 ```
 
 ## Contains
