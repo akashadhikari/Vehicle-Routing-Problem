@@ -1,5 +1,5 @@
 ## Vehicle Routing Problem
-A Travelling Salesman Problem for multiple delivery points. 
+A Travelling Salesman Problem for multiple delivery depots. 
 
 
 ## Installation
